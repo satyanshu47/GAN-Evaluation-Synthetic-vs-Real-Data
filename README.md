@@ -1,5 +1,5 @@
 # GAN-Evaluation-Synthetic-vs-Real-Data
-### Created by [Om Thakur](https://github.com/SuperPowered-Cat/), [Kumar Satyanshu](https://github.com/satyanshu47), [Meghansh Govil](https://github.com/MeghanshGovil) and [Divyansh Gupta](https://github.com/D-Expynos)
+### Created by [Om Thakur](https://github.com/SuperPowered-Cat/), [Kumar Satyanshu](https://github.com/satyanshu47) and [Divyansh Gupta](https://github.com/D-Expynos)
 ### Paper was presented at ICCRDA 2025 in Vietnam, to be published in IEEE Xplore.
 This repository contains the code used to evaluate the performance of Generative Adversarial Networks (GANs) in generating synthetic data and assessing its utility in comparison with real data using traditional machine learning models.
 ## Why use GAN?
