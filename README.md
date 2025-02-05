@@ -1,4 +1,6 @@
 # GAN-Evaluation-Synthetic-vs-Real-Data
+### Created by [Om Thakur](https://github.com/SuperPowered-Cat/), [Kumar Satyanshu](https://github.com/satyanshu47), [Meghansh Govil](https://github.com/MeghanshGovil) and [Divyansh Gupta](https://github.com/D-Expynos)
+### Paper was presented at ICCRDA 2025 in Vietnam, to be published in IEEE Xplore.
 This repository contains the code used to evaluate the performance of Generative Adversarial Networks (GANs) in generating synthetic data and assessing its utility in comparison with real data using traditional machine learning models.
 ## Why use GAN?
 Generative Adversarial Networks (GANs) are a class of neural networks designed to generate synthetic data that closely resembles real data. GANs consist of two main components: the generator and the discriminator. The generator creates synthetic data, while the discriminator evaluates it against real data. Through this adversarial process, the generator learns to produce increasingly realistic data, making GANs an excellent tool for data augmentation, particularly when real data is scarce or difficult to obtain.
